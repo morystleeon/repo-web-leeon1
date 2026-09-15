@@ -2,7 +2,7 @@
 This Porotofolio are made by:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html5,vscode,tailwindcss,css,js," />
 </p>
 
 ### Table Content:
