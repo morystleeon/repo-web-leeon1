@@ -2,8 +2,20 @@
 This Porotofolio are made by:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html5,vscode,tailwindcss,css,js," />
+  <img src="https://skillicons.dev/icons?i=html,vscode,tailwindcss,reactjs,nodejs,nextjs,js,css,github,figma,canva,bootstrap,aos" />
 </p>
+
+- HTML5 — Website structure
+- CSS3 — Styling and responsive design
+- TailwindCSS — CSS Framework
+- NodeJS — Runtime Build
+- NextJS — Javascript Framework
+- JavaScript — Interactive functionality
+- Figma — Design App
+- Canva — Design App
+- AOS — Scroll animations
+- Typed.js — Typing animation
+- Font Awesome — Icons
 
 ### Table Content:
 - About the Person
